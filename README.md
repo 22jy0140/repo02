@@ -1,2 +1,2 @@
 # repo02
-## <i>Github</i>の練習用リポジトリ
+## <storge>Github</storge>の練習用リポジトリ
