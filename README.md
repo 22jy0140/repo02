@@ -1,2 +1,2 @@
 # repo02
-## <small>Github</small>の練習用リポジトリ
+## Githubの練習用リポジトリ
