@@ -24,4 +24,6 @@ __ここがstrongタグで強調されます__
 - HTML  
 - JAVA  
 - PHP  
- 
+ 1. SQL  
+ 1. Java  
+ 1. Python
