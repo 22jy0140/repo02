@@ -20,7 +20,7 @@ _ここがemタグで強調されます_
 __ここがstrongタグで強調されます__
 ~~打ち消し線~~  
 <details><summary>要約をここに記述する</summary>
-本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</details>
+本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</details>  
 - HTML
 + JAVA
 * PHP
