@@ -26,8 +26,14 @@ __ここがstrongタグで強調されます__
  1. SQL  
  1. Java  
  1. Python
-- [ ] タスク1
+- [ ] タスク1  
 - [x] タスク2
+|A列|B列|C列|D列|E列|
+|-|:-:|:-|-:|-|
+|あ|い|う|え|お|
+|かか|きき|くく|けけ|ここ|
+|さささ|しし|すすす|せせせ|そそそ|
+
 <details>
  <summary>要約をここに記述する</summary>
  本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
