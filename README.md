@@ -21,11 +21,13 @@ __ここがstrongタグで強調されます__
 ~~打ち消し線~~  
 
 - HTML  
-- JAVA  
-- PHP  
++ JAVA  
+* PHP  
  1. SQL  
  1. Java  
  1. Python
+- [ ] タスク1
+- [x] タスク2
 <details>
  <summary>要約をここに記述する</summary>
  本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
