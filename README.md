@@ -20,12 +20,6 @@ _ここがemタグで強調されます_
 __ここがstrongタグで強調されます__
 ~~打ち消し線~~  
 
-```
-for(int i=0; i<10; i++){
-    int rand = (int)(Math.random()*10);
-    System.out.println("乱数[" + i + "]:" + rand);
-}
-```
 ![H3ロケット](https://www.jaxa.jp/projects/rockets/h3/images/h3_main_001.jpg "タイトル")
 - HTML  
 + JAVA  
@@ -40,6 +34,14 @@ for(int i=0; i<10; i++){
  1. SQL  
  1. Java  
  1. Python
+
+```
+for(int i=0; i<10; i++){
+    int rand = (int)(Math.random()*10);
+    System.out.println("乱数[" + i + "]:" + rand);
+}
+```
+
 - [ ] タスク1  
 - [x] タスク2  
 
