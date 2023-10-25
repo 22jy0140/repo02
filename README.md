@@ -24,6 +24,12 @@ __ここがstrongタグで強調されます__
 |あ|い|う|え|お|
 |かか|きき|くく|けけ|ここ|
 |さささ|しし|すすす|せせせ|そそそ|
+```
+for(int i=0; i<10; i++){
+    int rand = (int)(Math.random()*10);
+    System.out.println("乱数[" + i + "]:" + rand);
+}
+```
 - HTML  
 + JAVA  
 * PHP  
