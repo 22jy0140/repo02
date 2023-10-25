@@ -33,7 +33,6 @@ __ここがstrongタグで強調されます__
 |あ|い|う|え|お|
 |かか|きき|くく|けけ|ここ|
 |さささ|しし|すすす|せせせ|そそそ|
-
 <details>
  <summary>要約をここに記述する</summary>
  本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
