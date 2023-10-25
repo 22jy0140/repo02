@@ -19,7 +19,11 @@ _ここがemタグで強調されます_
 **ここがstrongタグで強調されます**  
 __ここがstrongタグで強調されます__
 ~~打ち消し線~~  
-
+|A列|B列|C列|D列|E列|
+|-|:-:|:-|-:|-|
+|あ|い|う|え|お|
+|かか|きき|くく|けけ|ここ|
+|さささ|しし|すすす|せせせ|そそそ|
 - HTML  
 + JAVA  
 * PHP  
@@ -28,11 +32,7 @@ __ここがstrongタグで強調されます__
  1. Python
 - [ ] タスク1  
 - [x] タスク2  
-|A列|B列|C列|D列|E列|
-|-|:-:|:-|-:|-|
-|あ|い|う|え|お|
-|かか|きき|くく|けけ|ここ|
-|さささ|しし|すすす|せせせ|そそそ|
+
 <details>
  <summary>要約をここに記述する</summary>
  本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
