@@ -13,4 +13,10 @@ brで改行<br>
 www.google.com  
 [Google](www.google.com)  
 [Google](www.google.com "タイトル")  
+*ここがemタグで強調されます*  
+_ここがemタグで強調されます_  
+
+**ここがstrongタグで強調されます**  
+__ここがstrongタグで強調されます__
+
  
