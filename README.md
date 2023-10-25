@@ -19,13 +19,14 @@ _ここがemタグで強調されます_
 **ここがstrongタグで強調されます**  
 __ここがstrongタグで強調されます__
 ~~打ち消し線~~  
-<details>
- <summary>要約をここに記述する</summary>
- 本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-</details>  
+
 - HTML  
 - JAVA  
 - PHP  
  1. SQL  
  1. Java  
  1. Python
+<details>
+ <summary>要約をここに記述する</summary>
+ 本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+</details>  
